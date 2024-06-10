@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRGenerator", "QRGenerator\QRGenerator.csproj", "{0BB01C7F-AFC8-4E4F-837C-9E34EE8D9999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB01C7F-AFC8-4E4F-837C-9E34EE8D9999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB01C7F-AFC8-4E4F-837C-9E34EE8D9999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB01C7F-AFC8-4E4F-837C-9E34EE8D9999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB01C7F-AFC8-4E4F-837C-9E34EE8D9999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
